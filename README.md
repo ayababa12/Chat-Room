@@ -1,6 +1,6 @@
-##Group Chat Room
+## Group Chat Room
 
-#Instructions for running the code
+# Instructions for running the code
 1. please install GTK3 using the following command: ```sudo apt-get install libgtk-3-dev ```
 2. use the following commands to compile the C code with GTK3:  
     ```
